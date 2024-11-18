@@ -1,0 +1,4 @@
+CREATE TABLE Cost_Centre (
+    Cost_centre_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL
+);
